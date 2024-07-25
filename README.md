@@ -1,17 +1,17 @@
-# Agric equipment rental system
-The aim of this project is to provide means for farmers to rent and also lease farming 
+# Wajenzil equipment rental 
+The aim of this project is to provide means for farmers to rent and also lease construction 
 equipments for an agreed period of time. the application automatically 
 tracks the equipments on rent and shows its availability.
 
 
 ## User Module
-**FARMER
+**EXPERT
 
 Farmer login to the application using the username and Password He / She can view 
 the list of machineries ordered in a particular area. 
 They can perform the analytics and sanction the machineries based on the requirements
 
-**BUYER
+**USER
 
 Buyer login to the application using the username and Password He / She can can view
 the list of machineries available in a particular area.
